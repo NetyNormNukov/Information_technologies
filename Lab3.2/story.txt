@@ -1,0 +1,2 @@
+
+Running time of the method printDb() 37400 ns.
